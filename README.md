@@ -1,5 +1,7 @@
 # Text_to_Text (AI) – GodMod
 
+Video tutorial: https://www.facebook.com/share/v/16BPekuBGS/
+
 An experimental, terminal-based AI command assistant that can:
 
 - Open popular web destinations with natural language (e.g. `open google`, `open youtube`).
